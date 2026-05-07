@@ -89,13 +89,13 @@ Explore advanced React and backend technologies
 📫 Connect With Me
 
 
-GitHub: Add your GitHub link
+GitHub:[ Add your GitHub link](https://github.com/srihari-software-devloper)
 
 
-LinkedIn: Add your LinkedIn link
+LinkedIn:[ Add your LinkedIn link](https://www.linkedin.com/in/srihari-yara-a61b90296?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 
-Email: Add your Email
+Email:srihari27.3.2005@gmail
 
 
 
